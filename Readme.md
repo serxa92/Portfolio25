@@ -7,8 +7,7 @@ It showcases my background, skills, and personal projects as a **Software Develo
 
 ## Live Preview
 
-- **Demo:** https://sergioagullaportfolio.vercel.app/  
-- **Screenshot:**  
+
   ![Site preview](./assets/preview.png)
 
 ### Sections
@@ -21,20 +20,19 @@ It showcases my background, skills, and personal projects as a **Software Develo
 
 ## ⚙️ Tech Stack
 
-### 🧱 Built With
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+</div>
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ✅ Fully responsive layout  
 ✅ Minimalist and professional design  
 ✅ Smooth scrolling and UI animations  
-✅ Interactive project cards  
-✅ Direct links to GitHub and live demos  
+
 
 ---
