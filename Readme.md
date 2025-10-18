@@ -5,10 +5,6 @@ It showcases my background, skills, and personal projects as a **Software Develo
 
 ---
 
-## 🧩 Overview
-
-This portfolio serves as my digital business card — a clean and responsive website designed to highlight my technical journey, stack, and recent work.
----
 ## Live Preview
 
 - **Demo:** https://sergioagullaportfolio.vercel.app/  
