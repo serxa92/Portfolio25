@@ -1,7 +1,9 @@
-# 🌐 Sergio Agulla - Portfolio Website
+#  Sergio Agulla | Portfolio
 
 This is my **personal portfolio website**, built with **HTML**, **CSS**, and **JavaScript**.  
 It showcases my background, skills, and personal projects as a **Software Developer**.
+--
+[🌐 Link](https://sergioagulla.dev)
 
 ---
 
@@ -9,6 +11,7 @@ It showcases my background, skills, and personal projects as a **Software Develo
 
 
   ![Site preview](./assets/preview.png)
+  
 
 ### Sections
 - 🧠 **About Me** – Background, education, and professional goals.  
