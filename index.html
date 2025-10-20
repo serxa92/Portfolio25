@@ -32,7 +32,8 @@
 
 <body>
   <nav id="desktop-nav">
-    <div class="logo">Sergio Agulla</div>
+    <img id="logonav" src="./assets/logo-light.png" src-light="./assets/logo-light.png"
+      src-dark="./assets/logo-dark.png" alt="My LinkedIn profile" class="icon linkedin-icon" />
     <div>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
@@ -47,28 +48,30 @@
     </div>
   </nav>
   <nav id="hamburger-nav">
-    <div class="logo">Sergio Agulla</div>
-    <div class="hamburger-menu">
-      <div class="hamburger-icon" onclick="toggleMenu()">
-        <span></span>
-        <span></span>
-        <span></span>
+    <img id="logonav" src="./assets/logo-light.png" src-light="./assets/logo-light.png"
+      src-dark="./assets/logo-dark.png" alt="My LinkedIn profile" class="icon linkedin-icon" />
+    <div>
+      <div class="hamburger-menu">
+        <div class="hamburger-icon" onclick="toggleMenu()">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="menu-links">
+          <li><a href="#about" onclick="toggleMenu()">About</a></li>
+          <li><a href="#experience" onclick="toggleMenu()">Stack</a></li>
+          <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+          <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+          <li>
+            <img id="modeToggle2" class="icon color-icon" src="./assets/theme_light.png"
+              src-light="./assets/theme_light.png" src-dark="./assets/theme_dark.png" alt="Color them icon" />
+          </li>
+        </div>
       </div>
-      <div class="menu-links">
-        <li><a href="#about" onclick="toggleMenu()">About</a></li>
-        <li><a href="#experience" onclick="toggleMenu()">Stack</a></li>
-        <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
-        <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
-        <li>
-          <img id="modeToggle2" class="icon color-icon" src="./assets/theme_light.png"
-            src-light="./assets/theme_light.png" src-dark="./assets/theme_dark.png" alt="Color them icon" />
-        </li>
-      </div>
-    </div>
   </nav>
   <section id="profile">
     <div class="section__pic-container">
-      <img class="profilepic" src="./assets/profile-pic.png" alt="Sergio Agulla profile picture" />
+      <img class="about-pic"  src="./assets/profile-pic.png" alt="Sergio Agulla profile picture" />
     </div>
     <div class="section__text">
       <p class="section__text__p1">Hello, I'm</p>
