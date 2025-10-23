@@ -496,14 +496,19 @@ footer p {
 }
 #topBtn {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  height: 2rem;
+  bottom: 82px;
+  right: 30px;
   z-index: 100;
   background-color: transparent;
-  color: var(--primary-color);
   border: none;
   padding: 10px 15px;
   border-radius: 5px;
   cursor: pointer;
   display: none;
+}
+#topBtn img{
+  position: static;        
+  height: 2rem;
+  
 }

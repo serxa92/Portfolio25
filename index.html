@@ -71,7 +71,7 @@
   </nav>
   <section id="profile">
     <div class="section__pic-container">
-      <img class="about-pic"  src="./assets/profile-pic.png" alt="Sergio Agulla profile picture" />
+      <img class="about-pic" src="./assets/profile-pic.png" alt="Sergio Agulla profile picture" />
     </div>
     <div class="section__text">
       <p class="section__text__p1">Hello, I'm</p>
@@ -320,8 +320,13 @@
     <p>Copyright &#169; 2025 Sergio Agulla. All Rights Reserved.</p>
   </footer>
   <script src="script.js"></script>
-  <button onclick="topFunction()" id="topBtn" title="Go to top"><img src="./assets/arrow - copia.png" src-light="./assets/arrow_light - copia.png" src-dark="./assets/arrow_dark - copia.png"
-      alt="Arrow icon" class="icon arrow" /></button>
+  <button id="topBtn" title="Go to top" aria-label="Scroll to top" onclick="topFunction()">
+    <img src="./assets/arrowtop.png"
+         src-light="./assets/arrowtoplight.png"
+         src-dark="./assets/arrowtopdark.png"
+         alt=""
+         class="icon scrolltop-icon" />
+  </button>
 
 </body>
 
