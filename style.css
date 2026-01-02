@@ -78,13 +78,12 @@ nav {
   gap: 2rem;
   list-style: none;
   font-size: 1.5rem;
-  
 }
-li:hover{
-   transform: scale(1.1);
+li:hover {
+  transform: scale(1.1);
 }
-button:hover{
-   transform: scale(1.1);
+button:hover {
+  transform: scale(1.1);
 }
 
 nav li:last-child {
@@ -93,7 +92,7 @@ nav li:last-child {
   margin: auto;
   padding: 10px;
 }
-.icon:hover{
+.icon:hover {
   transform: scale(1.1);
 }
 
@@ -112,18 +111,11 @@ a:hover {
 nav a:hover {
   color: var(--secondary-color);
   text-decoration-color: var(--secondary-color);
- 
 }
-
 
 #logonav {
   width: 17vh;
   height: 17vh;
-}
-
-#logonav:hover {
-  cursor: pointer;
-  transform: scale(1.1);
 }
 
 /* HAMBURGER MENU */
@@ -174,8 +166,7 @@ nav a:hover {
   text-decoration: none;
   transition: all 0.3 ease-in-out;
 }
-.menu-links
-.menu-links li {
+.menu-links .menu-links li {
   list-style: none;
 }
 
@@ -507,8 +498,7 @@ footer p {
   cursor: pointer;
   display: none;
 }
-#topBtn img{
-  position: static;        
+#topBtn img {
+  position: static;
   height: 2rem;
-  
 }
